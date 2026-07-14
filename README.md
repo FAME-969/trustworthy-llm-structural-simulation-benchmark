@@ -51,8 +51,6 @@ Repository structure is organized as follows. Relevant files are currently being
 
 ├── generated_code/
 
-├── logs/
-
 ├── reference_solutions/
 
 ├── evaluation/
