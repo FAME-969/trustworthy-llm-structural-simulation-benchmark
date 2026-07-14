@@ -44,11 +44,20 @@ These five problems collectively expose several mechanics-sensitive issues, incl
 Repository structure is organized as follows. Relevant files are currently being organized and will be updated gradually.
 
 .
+
 ├── README.md
+
 ├── prompts/
+
 ├── generated_code/
+
 ├── logs/
+
 ├── reference_solutions/
+
 ├── evaluation/
+
 ├── environment.yml
+
 └── requirements.txt
+
