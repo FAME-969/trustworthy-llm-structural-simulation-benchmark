@@ -1,0 +1,2 @@
+C:\Users\ziyou\AppData\Local\Temp\ipykernel_30736\3233723734.py:111: MatrixRankWarning: Matrix is exactly singular
+  u_sol = spla.spsolve(A_csr, b)
